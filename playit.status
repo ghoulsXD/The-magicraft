@@ -1,0 +1,178 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073070312 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073073369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073076428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073091520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073094590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073109689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073112752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073127838 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073130895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073133960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073149045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073152105 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073167194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073170249 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073185339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073188395 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073191450 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073206547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073221633 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073224687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073239783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073242845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073257932 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073261000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073264062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723073279179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723073282246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+access-foster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
